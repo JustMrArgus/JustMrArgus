@@ -4,7 +4,7 @@
 
 <h3 align="left">My main specialization:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs" height="60" alt="main stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs" alt="main stack" />
 </p>
 
 <h3 align="left">I also have good knowledge of and have worked with:</h3>
