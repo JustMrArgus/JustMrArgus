@@ -14,7 +14,7 @@
 
 <h3 align="left">I also want to learn:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,figma,graphql,reactnative,redux,vue" height="60" alt="to learn" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,figma,redux,vue" height="60" alt="to learn" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justmrargus&show_icons=true&locale=en&layout=compact&theme=dark" alt="justmrargus" />
