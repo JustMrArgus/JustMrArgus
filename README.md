@@ -17,6 +17,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,vue" height="60" alt="to learn" />
 </p>
 
+<br>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justmrargus&show_icons=true&locale=en&layout=compact&theme=dark" alt="justmrargus" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justmrargus&theme=dark" alt="justmrargus" />
