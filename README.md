@@ -9,12 +9,12 @@
 
 <h3 align="left">I also have good knowledge of and have worked with:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sass,bash,docker,express,linux,git,jest,mongodb,postman,nodejs,postgres" height="60" alt="other stack" />
+  <img src="https://skillicons.dev/icons?i=python,sass,bash,docker,express,linux,git,jest,mongodb,postman,nodejs,postgres,figma,redux" height="60" alt="other stack" />
 </p>
 
 <h3 align="left">I also want to learn:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,figma,redux,vue" height="60" alt="to learn" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,vue" height="60" alt="to learn" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justmrargus&show_icons=true&locale=en&layout=compact&theme=dark" alt="justmrargus" />
