@@ -96,3 +96,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justmrargus&theme=dark" alt="justmrargus" />
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
