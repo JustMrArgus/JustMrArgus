@@ -9,7 +9,7 @@
 
 <h3 align="left">I also have good knowledge of and have worked with:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,nodejs,express,postgres,mongodb,jest,git,docker,linux,bash,postman,figma,vue,sass,react" alt="other stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,nodejs,express,nest,postgres,mongodb,jest,git,docker,linux,bash,postman,figma,vue,sass,react" alt="other stack" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justmrargus&show_icons=true&locale=en&layout=compact&theme=dark" alt="justmrargus" />
