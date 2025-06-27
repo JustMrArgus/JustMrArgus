@@ -9,7 +9,7 @@
 
 <h3 align="left">I also have great knowledge of and experience working with:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="secondary stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,bash" alt="secondary stack" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justmrargus&show_icons=true&locale=en&layout=compact&theme=dark" alt="justmrargus" />
