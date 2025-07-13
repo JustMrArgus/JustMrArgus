@@ -4,12 +4,12 @@
 
 <h3 align="left">My main specialization:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,tailwind,react,nextjs" alt="main stack" />
+  <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,tailwind,react,nextjs,express,nestjs,postgres,mongodb,redis" alt="main stack" />
 </p>
 
 <h3 align="left">I also have great knowledge of and experience working with:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb" alt="secondary stack" />
+  <img src="https://skillicons.dev/icons?i=vercel,prisma,docker,bash" alt="secondary stack" />
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justmrargus&show_icons=true&locale=en&layout=compact&theme=dark" alt="justmrargus" />
