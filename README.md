@@ -7,11 +7,6 @@
   <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,html,css,tailwind,react,nextjs,express,nestjs,postgres,mongodb,redis" alt="main stack" />
 </p>
 
-<h3 align="left">I also have great knowledge of and experience working with:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,prisma,docker,bash" alt="secondary stack" />
-</p>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justmrargus&show_icons=true&locale=en&layout=compact&theme=dark" alt="justmrargus" />
 
 ![snake gif](https://github.com/JustMrArgus/JustMrArgus/blob/output/github-snake-dark.svg)
